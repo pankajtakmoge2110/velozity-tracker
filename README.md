@@ -2,7 +2,7 @@
 
 A fully functional project management UI built with React, TypeScript, and Tailwind CSS.
 
-🔗 **Live Demo:** [https://velozity-tracker.vercel.app](https://velozity-tracker.vercel.app)
+🔗 **Live Demo:** [https://velozity-tracker.vercel.app]([https://velozity-tracker.vercel.app](https://velozity-tracker-flame.vercel.app/))
 
 
 📁 **Repository:** [https://github.com/YOUR_USERNAME/velozity-tracker](https://github.com/YOUR_USERNAME/velozity-tracker)
