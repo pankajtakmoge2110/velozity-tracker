@@ -5,7 +5,7 @@ A fully functional project management UI built with React, TypeScript, and Tailw
 🔗 **Live Demo:** [https://velozity-tracker.vercel.app]([https://velozity-tracker.vercel.app](https://velozity-tracker-flame.vercel.app/))
 
 
-📁 **Repository:** [https://github.com/YOUR_USERNAME/velozity-tracker](https://github.com/YOUR_USERNAME/velozity-tracker)
+📁 **Repository:** [https://github.com/pankajtakmoge2110/velozity-tracker]
 
 ---
 
