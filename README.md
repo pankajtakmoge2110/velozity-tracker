@@ -125,8 +125,7 @@ Implemented from scratch in `src/hooks/useDragAndDrop.ts`. No libraries used.
 ## Lighthouse Score
 
 > Screenshot below — Desktop performance score: **90+**
-
-![Lighthouse Score](./lighthouse.png)
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/351e19f1-692d-4208-8d0e-a47efa5f646c" />
 
 *(Run Lighthouse in Chrome DevTools → Lighthouse tab → Desktop → Analyze)*
 
